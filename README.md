@@ -39,8 +39,8 @@ THEN I exit the application, and the HTML is generated
 ```
 
 ## Mock-Up
+![image](https://user-images.githubusercontent.com/82403487/132878852-6e554e73-cd89-4466-973e-c72a2cf536b5.png)
 
-The following image shows a mock-up of the generated HTML’s appearance and functionality:
 
 ![HTML webpage titled “My Team” features five boxes listing employee names, titles, and other key info.](./Assets/10-object-oriented-programming-homework-demo.png)
 
