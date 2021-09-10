@@ -1,0 +1,22 @@
+{
+  "name": "teamgenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aldoquin/TeamGenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aldoquin/TeamGenerator/issues"
+  },
+  "homepage": "https://github.com/aldoquin/TeamGenerator#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  }
+}
